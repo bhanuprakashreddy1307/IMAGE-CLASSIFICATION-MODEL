@@ -114,3 +114,4 @@ Image classification is used in:
 Image classification models, particularly those built using CNNs, have revolutionized the way machines interpret visual data. With careful preprocessing, model design, and training, these models can achieve human-level accuracy on many tasks. Their versatility and effectiveness continue to drive innovation in artificial intelligence across multiple domains.
 
 *OUTPUT*:
+[Model Training Diagram.pdf](https://github.com/user-attachments/files/21564762/Model.Training.Diagram.pdf)
